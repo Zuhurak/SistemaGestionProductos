@@ -46,3 +46,11 @@ frontend/
 ├── index.html
 ├── styles.css
 └── app.js
+
+## Scrum
+
+El proyecto fue planificado utilizando Agile-Scrum mediante historias de usuario, epicas, sprints y criterios de aceptacion.
+
+## Pruebas
+
+El sistema cuenta con pruebas automatizadas utilizando Mocha, Chai y Supertest.
